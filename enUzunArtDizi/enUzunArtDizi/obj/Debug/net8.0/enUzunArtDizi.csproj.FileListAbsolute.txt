@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\bin\Debug\net8.0\enUzunArtDizi.exe
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\bin\Debug\net8.0\enUzunArtDizi.deps.json
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\bin\Debug\net8.0\enUzunArtDizi.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\bin\Debug\net8.0\enUzunArtDizi.dll
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\bin\Debug\net8.0\enUzunArtDizi.pdb
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.dll
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\refint\enUzunArtDizi.dll
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.pdb
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\enUzunArtDizi.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorithms\enUzunArtDizi\enUzunArtDizi\obj\Debug\net8.0\ref\enUzunArtDizi.dll
